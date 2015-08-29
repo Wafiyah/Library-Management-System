@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D8B34AA4-086C-4686-9158-CCCE1BF1DE1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Main</RootNamespace>
+    <AssemblyName>Main</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About us.Designer.cs">
+      <DependentUpon>About us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Login.Designer.cs">
+      <DependentUpon>Administration Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administration Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administration Menu.Designer.cs">
+      <DependentUpon>Administration Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Circulation Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Circulation Service.Designer.cs">
+      <DependentUpon>Circulation Service.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delete_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete_info.Designer.cs">
+      <DependentUpon>Delete_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_basic_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_basic_info.Designer.cs">
+      <DependentUpon>frm_basic_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_objective.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_objective.Designer.cs">
+      <DependentUpon>frm_objective.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information.Designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instruction.Designer.cs">
+      <DependentUpon>Instruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Issue.Designer.cs">
+      <DependentUpon>Issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New entry book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New entry book.Designer.cs">
+      <DependentUpon>New entry book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_emp.Designer.cs">
+      <DependentUpon>New_emp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration1.Designer.cs">
+      <DependentUpon>Registration1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Return List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Return List.Designer.cs">
+      <DependentUpon>Return List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search1.Designer.cs">
+      <DependentUpon>Search1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About us.resx">
+      <DependentUpon>About us.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Login.resx">
+      <DependentUpon>Administration Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration Menu.resx">
+      <DependentUpon>Administration Menu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Circulation Service.resx">
+      <DependentUpon>Circulation Service.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete_info.resx">
+      <DependentUpon>Delete_info.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_basic_info.resx">
+      <DependentUpon>frm_basic_info.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_objective.resx">
+      <DependentUpon>frm_objective.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instruction.resx">
+      <DependentUpon>Instruction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Issue.resx">
+      <DependentUpon>Issue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New entry book.resx">
+      <DependentUpon>New entry book.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_emp.resx">
+      <DependentUpon>New_emp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration1.resx">
+      <DependentUpon>Registration1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Return List.resx">
+      <DependentUpon>Return List.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search1.resx">
+      <DependentUpon>Search1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_info.resx">
+      <DependentUpon>Update_info.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Update_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_info.Designer.cs">
+      <DependentUpon>Update_info.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

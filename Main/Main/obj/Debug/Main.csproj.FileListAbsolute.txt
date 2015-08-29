@@ -1,0 +1,120 @@
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.About_us.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Administration_Login.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Administration_Menu.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Authentication_Syetem_3.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Authentication_System.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Authentication_System2.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Authentication_System4.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Black_List.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Circulation_Service.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Entry_Message.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Home.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Instruction.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Issue.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Issue2.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Member.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Member2.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Member3.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.New_entry_book.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Registration1.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Registration2.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Return_List.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Search1.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Search2.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Search3.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Todays_Issue_Book.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Todays_Registration.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.Todays_Return_Book.resources
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Sadia\Desktop\Main\Main\bin\Debug\Main.exe
+C:\Users\Sadia\Desktop\Main\Main\bin\Debug\Main.pdb
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.exe
+C:\Users\Sadia\Desktop\Main\Main\obj\Debug\Main.pdb
+C:\Users\hp\Downloads\Main\Main\obj\Debug\Main.exe
+C:\Users\hp\Downloads\Main\Main\obj\Debug\Main.pdb
+D:\SQL\Main\Main\obj\Debug\Main.exe
+D:\SQL\Main\Main\obj\Debug\Main.pdb
+D:\SQL\Main\Main\obj\Debug\ResolveAssemblyReference.cache
+D:\SQL\Main\Main\obj\Debug\Main.About_us.resources
+D:\SQL\Main\Main\obj\Debug\Main.Administration_Login.resources
+D:\SQL\Main\Main\obj\Debug\Main.Administration_Menu.resources
+D:\SQL\Main\Main\obj\Debug\Main.Circulation_Service.resources
+D:\SQL\Main\Main\obj\Debug\Main.Home.resources
+D:\SQL\Main\Main\obj\Debug\Main.Instruction.resources
+D:\SQL\Main\Main\obj\Debug\Main.Issue.resources
+D:\SQL\Main\Main\obj\Debug\Main.New_entry_book.resources
+D:\SQL\Main\Main\obj\Debug\Main.Registration1.resources
+D:\SQL\Main\Main\obj\Debug\Main.Return_List.resources
+D:\SQL\Main\Main\obj\Debug\Main.Search1.resources
+D:\SQL\Main\Main\obj\Debug\Main.Properties.Resources.resources
+D:\SQL\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\SQL\Main\Main\bin\Debug\Main.exe
+D:\SQL\Main\Main\bin\Debug\Main.pdb
+D:\SQL\Main\Main\obj\Debug\Main.frm_basic_info.resources
+D:\SQL\Main\Main\obj\Debug\Main.frm_objective.resources
+D:\SQL\Main\Main\bin\Debug\Main.exe.config
+D:\SQL\Main\Main\obj\Debug\Main.Information.resources
+D:\SQL\Main\Main\obj\Debug\Main.Update_info.resources
+D:\SQL\Main\Main\obj\Debug\Main.Delete_info.resources
+D:\SQL\Main\Main\obj\Debug\Main.New_emp.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\bin\Debug\Main.exe.config
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.exe
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.pdb
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\bin\Debug\Main.exe
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\bin\Debug\Main.pdb
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\ResolveAssemblyReference.cache
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.About_us.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Administration_Login.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Administration_Menu.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Circulation_Service.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Delete_info.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.frm_basic_info.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.frm_objective.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Home.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Information.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Instruction.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Issue.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.New_entry_book.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.New_emp.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Registration1.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Return_List.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Search1.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Properties.Resources.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Update_info.resources
+F:\Semester 3.1\Database\Final Project\Project(recent)\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Downloads\Final Project\Project(recent)\Main\Main\bin\Debug\Main.exe.config
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.exe
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.pdb
+D:\Downloads\Final Project\Project(recent)\Main\Main\bin\Debug\Main.exe
+D:\Downloads\Final Project\Project(recent)\Main\Main\bin\Debug\Main.pdb
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.About_us.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Administration_Login.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Administration_Menu.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Circulation_Service.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Delete_info.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.frm_basic_info.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.frm_objective.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Home.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Information.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Instruction.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Issue.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.New_entry_book.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.New_emp.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Registration1.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Return_List.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Search1.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.Update_info.resources
+D:\Downloads\Final Project\Project(recent)\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Sadia\Desktop\Libary Management  Syetem Software\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Sadia\Desktop\Libary Management  Syetem Software\Main\Main\obj\Debug\Main.exe
+C:\Users\Sadia\Desktop\Libary Management  Syetem Software\Main\Main\obj\Debug\Main.pdb
+C:\Users\Sumi\Desktop\Desktop\Libary Management  Syetem Software\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Sumi\Desktop\Desktop\Libary Management  Syetem Software\Main\Main\obj\Debug\Main.exe
+C:\Users\Sumi\Desktop\Desktop\Libary Management  Syetem Software\Main\Main\obj\Debug\Main.pdb
+E:\Developed Software\C# & Database\Libary Management  Syetem Software\Main\Main\bin\Debug\Main.exe.config
+E:\Developed Software\C# & Database\Libary Management  Syetem Software\Main\Main\obj\Debug\Main.exe
+E:\Developed Software\C# & Database\Libary Management  Syetem Software\Main\Main\obj\Debug\Main.pdb
